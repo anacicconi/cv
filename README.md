@@ -3,7 +3,7 @@
 
 ## Summary
 
-*With more than 10 years of experience in frontend, backend, and mobile development, a history of delivering successful outcomes for companies ranging from startups to industry leaders such as BlaBlaCar, BFMTV, and Publicis. Recognized for meticulous organizational skills, commitment to quality, a product-oriented view, rapid learning capabilities, and a collaborative team-oriented approach. Living in Pays de Gex, France/Switzerland.*
+*With more than 10 years of experience in frontend, backend, and mobile development, a history of delivering successful outcomes for companies ranging from startups to industry leaders such as BlaBlaCar, BFMTV, and Publicis. Recognized for meticulous organizational skills, commitment to quality, a product-oriented view, rapid learning capabilities, and a collaborative team-oriented approach. Living in Pays de Gex, France/Switzerland :fr::switzerland:*
 
 ## Main Skills
 
@@ -140,11 +140,11 @@ Research Assistant • 2011
 
 ## Education
 
-### Master II Recherche Sciences du Management
+### Master II Recherche Sciences du Management :fr:
 
 IAE de Tours • 2009
 
-### Bachelor in Management
+### Bachelor in Management :brazil:
 
 Fundação Getulio Vargas Brazil • 2007
 
@@ -164,19 +164,19 @@ Udacity • 2015
 
 ## Languages
 
-### English
+### English :us:	
 
 Bilingual (TOEIC 935 points)
 
-### French 
+### French :fr:	
 
 Bilingual
 
-### Portuguese
+### Portuguese :brazil:	
 
 Bilingual
 
-### Spanish
+### Spanish :es:	
 
 Intermediary (DELE Intermedio)
 
