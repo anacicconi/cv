@@ -3,7 +3,7 @@
 
 ## Summary
 
-*With more than 10 years of experience in frontend, backend, and mobile development, a history of delivering successful outcomes for companies ranging from startups to industry leaders such as BlaBlaCar, BFMTV, and Publicis. Recognized for meticulous organizational skills, commitment to quality, a product-oriented view, rapid learning capabilities, and a collaborative team-oriented approach. Living in Pays de Gex, France/Switzerland :fr::switzerland:*
+*With over 10 years of experience in frontend, backend, and mobile development, I have a history of delivering successful outcomes for companies ranging from startups to industry leaders such as BlaBlaCar, BFMTV, and Publicis. Recognized for meticulous organizational skills, commitment to quality, a product-oriented view, rapid learning capabilities, and a collaborative team-oriented approach. Living in Pays de Gex, France/Switzerland :fr::switzerland:*
 
 ## Main Skills
 
