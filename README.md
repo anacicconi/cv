@@ -156,7 +156,7 @@ Scrum Institute • 2020
 
 ### Nanodegree Android Developer
 
-Udacity • 2015
+Udacity • 2020
 
 ### Web Developer
 
