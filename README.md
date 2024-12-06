@@ -20,7 +20,7 @@
 
 ### Stealth Startup
 
-Tech Consultant • current
+Tech Consultant • 2024
 
 Project: Development of a generative AI solution for healthcare professionals.
 - Joined the team at the beginning of the start-up.
