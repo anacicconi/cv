@@ -26,7 +26,7 @@ Project: Development of a generative AI solution for healthcare professionals.
 - Joined the team at the beginning of the start-up.
 - Participate in designing the product and offering technical advice.
 
-**Technologies:** NextJs, ReactJs, Generative AI, Agile.
+**Technologies:** NextJs, ReactJs, Python, Generative AI, Large Language Models, Retrieval Augmented Generation, Hugging Face, Prompt Engineering, Agile.
 
 ### Kotzilla
 
